@@ -1,13 +1,13 @@
-# Project Name
+# Wardle
 
-> Pithy project description
+> Emulation of Paymo
 
 ## Team
 
-  - teamMember
-  - teamMember
-  - teamMember
-  - teamMember
+  - Derrick Cross
+  - Jackie Jou
+  - Dillon Lin
+  - Nuno Neves
 
 ## Table of Contents
 
